@@ -25,4 +25,4 @@ I had a great time making this project, the easiest part in my opinion was desig
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](https://github.com/user-attachments/assets/71ad6fd8-90a5-4a4f-b727-5e752295b006) | ![image](https://github.com/user-attachments/assets/613ba8da-0efd-452e-a26f-c3011563d9f3) | ![image](https://github.com/user-attachments/assets/3ba0bcd4-335d-4c5f-bcf2-291eaefbe853)
+![image](https://github.com/user-attachments/assets/b18f2718-a751-4e30-9dfb-c355714a0001) | ![image](https://github.com/user-attachments/assets/88ed2347-ea09-4844-b108-b487b4f2aecd) | ![image](https://github.com/user-attachments/assets/3ba0bcd4-335d-4c5f-bcf2-291eaefbe853)
